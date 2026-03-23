@@ -1,9 +1,8 @@
 ### Hi there!! I'm Tejaswi Karasani 👋
 
-
-
-- 🔭 I’m currently working to improve my problem solving skills even more better
-- 🌱 I’m currently learning Backend development
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: Her/she
-- ⚡ fact: I like story telling
+🔭 Currently focused on strengthening my problem-solving and algorithmic skills
+🌱 Learning AI
+💡 Interested in building efficient and scalable systems
+📫 Reach me on LinkedIn
+😄 Pronouns: She/Her
+⚡ Fun fact: I enjoy storytelling and simplifying complex ideas
